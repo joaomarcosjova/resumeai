@@ -1,4 +1,9 @@
-# React + Vite
+# Description 
+
+ResumoAi is a web application that utilizes AI to summarize articles and PDFs in just a few seconds. With its intuitive interface and powerful backend, ResumeAi helps users quickly extract key insights from lengthy documents.
+
+# built with 
+**React + Vite**
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
